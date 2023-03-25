@@ -1,1 +1,1 @@
-air bnb
+clone of AirBnB platform with limited features.
